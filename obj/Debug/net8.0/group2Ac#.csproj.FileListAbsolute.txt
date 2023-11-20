@@ -1,0 +1,14 @@
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/bin/Debug/net8.0/group2Ac#
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/bin/Debug/net8.0/group2Ac#.deps.json
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/bin/Debug/net8.0/group2Ac#.runtimeconfig.json
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/bin/Debug/net8.0/group2Ac#.dll
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/bin/Debug/net8.0/group2Ac#.pdb
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/group2Ac#.GeneratedMSBuildEditorConfig.editorconfig
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/group2Ac#.AssemblyInfoInputs.cache
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/group2Ac#.AssemblyInfo.cs
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/group2Ac#.csproj.CoreCompileInputs.cache
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/group2Ac#.dll
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/refint/group2Ac#.dll
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/group2Ac#.pdb
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/group2Ac#.genruntimeconfig.cache
+/home/patsicko/Desktop/myprojects/C#/group2Ac#/obj/Debug/net8.0/ref/group2Ac#.dll
